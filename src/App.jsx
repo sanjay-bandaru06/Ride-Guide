@@ -474,7 +474,7 @@ function Footer({ setPage }) {
       </div>
 
       <div className="border-t border-white/10 py-4 text-center text-xs text-white/60 px-4">
-        © 2026 RideGuide. 
+        © 2026 RideGuide.
       </div>
     </footer>
   );
@@ -600,6 +600,8 @@ function Home({ setPage }) {
             })}
           </div>
         </section>
+
+        <meta name="mitgo-verification" content="b7be8972-0966-4175-bd44-41741f3ad579" />
 
         <section className="grid md:grid-cols-2 gap-8">
           <div>
